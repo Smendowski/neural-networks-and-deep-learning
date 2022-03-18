@@ -17,9 +17,15 @@ NNaDL = Neural Networks and Deep Learning <br>
 - visualization of weights of the neural network
 
 #### 2. Visualizations and classification based on MNIST - digits dataset. [View](https://github.com/Smendowski/neural-networks-and-deep-learning/blob/main/%5B2%5D%20data%20visualization%20and%20classification.ipynb)
-- visualizations of the distribution of MNIST digits,
+- visualizations of the distribution of MNIST digits
 - Principal Component Analysis (PCA) - 2D and 3D (plotly)
 - T-distributed Stochastic Neighbour Embedding (T-SNE)
 - Classification using SVM
 - Analysis of confusion matrix
 - boolean indexing in NumPy
+
+#### 3. Restricted Boltzmann Machine and Contrastive Divergence algorithm. [View](https://github.com/Smendowski/neural-networks-and-deep-learning/blob/main/%5B3%5D%20Restricted%20Boltzmann%20Machine%20and%20Contrastive%20Divergence%20algorithm.ipynb)
+- Restricted Boltzmann Machine
+- Contrastive Divergence algorithm
+- Gibbs sampling
+- Stochastic gradient descent
