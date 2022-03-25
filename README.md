@@ -29,3 +29,8 @@ NNaDL = Neural Networks and Deep Learning <br>
 - Contrastive Divergence algorithm
 - Gibbs sampling
 - Stochastic gradient descent
+
+
+#### 4. Evaluation and comparison of CDk and PCD algorithms. [View](https://github.com/Smendowski/neural-networks-and-deep-learning/blob/main/%5B4%5D%20Comparison%20of%20Contrastive%20Divergence%20and%20Persistent%20Contrastive%20Divergence%20algorithms.ipynb)
+- Implementation of Persistent Contrastive Divergence algorithm
+- Comparision of RBM's training algorithms based on MNIST dataset
