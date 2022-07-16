@@ -48,3 +48,8 @@ NNaDL = Neural Networks and Deep Learning <br>
 - L1 and L2 regularization
 - MLP pre-training using DBN
 - Comparison of results of plan MLP and pre-trained MLP
+
+#### 8. ReLU activation function and Max-Norm Regularization. [View](https://github.com/Smendowski/neural-networks-and-deep-learning/blob/main/%5B8%5D%20ReLU%20and%20Max-Norm%20Regularization.ipynb)
+- Changing Sigmoid to ReLU activation function
+- Max-Norm Reguralization. Introduction of competitive weights
+- Initializing MLP with DBN weights
