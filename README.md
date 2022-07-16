@@ -55,5 +55,13 @@ NNaDL = Neural Networks and Deep Learning <br>
 - Initializing MLP with DBN weights
 
 #### 9. Dropout Regularization. [View](https://github.com/Smendowski/neural-networks-and-deep-learning/blob/main/%5B9%5D%20Dropout%20Regularization.ipynb)
-- Dropout Regularization
 
+#### 10. Autoencoder. [View](https://github.com/Smendowski/neural-networks-and-deep-learning/blob/main/%5B10%5D%20Autoencoder.ipynb)
+- Autoencoder initialization with DBN weights
+- Autoencoder training
+
+#### 11. Autoencoder training with Nesterov accelerated gradient descent. [View](https://github.com/Smendowski/neural-networks-and-deep-learning/blob/main/%5B11%5D%20Autoencoder%20training%20with%20Nesterov%20accelerated%20gradient%20descend.ipynb)
+
+#### 12. Convolutional Neural Network. [View](https://github.com/Smendowski/neural-networks-and-deep-learning/blob/main/%5B12%5D%20Convolutional%20Neural%20Network.ipynb)
+
+#### 13. Negative Sampling Algorithm. [View](https://github.com/Smendowski/neural-networks-and-deep-learning/blob/main/%5B13%5D%20Negative%20Sampling%20Algorithm.ipynb)
