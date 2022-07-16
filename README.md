@@ -39,3 +39,7 @@ NNaDL = Neural Networks and Deep Learning <br>
 - RBM training with Momentum - modification of classical SGD algorithm
 - DBN greedy layer-wise training
 - DBN sampling
+
+#### 6. Backpropagation algorithm. [View](https://github.com/Smendowski/neural-networks-and-deep-learning/blob/main/%5B6%5D%20Backpropagation%20algorithm.ipynb)
+- Two phases of the algorithm: forward pass and error backpropagation
+- MLP training with Backpropagation and minibatched variant of SGD
