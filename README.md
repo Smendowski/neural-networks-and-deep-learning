@@ -43,3 +43,8 @@ NNaDL = Neural Networks and Deep Learning <br>
 #### 6. Backpropagation algorithm. [View](https://github.com/Smendowski/neural-networks-and-deep-learning/blob/main/%5B6%5D%20Backpropagation%20algorithm.ipynb)
 - Two phases of the algorithm: forward pass and error backpropagation
 - MLP training with Backpropagation and minibatched variant of SGD
+
+#### 7. L1L2 Regularization and initialization of MLP weights. [View](https://github.com/Smendowski/neural-networks-and-deep-learning/blob/main/%5B7%5D%20L1L2%20Regularization%20and%20DBN%20pre-training.ipynb)
+- L1 and L2 regularization
+- MLP pre-training using DBN
+- Comparison of results of plan MLP and pre-trained MLP
