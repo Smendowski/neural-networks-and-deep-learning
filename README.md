@@ -53,3 +53,7 @@ NNaDL = Neural Networks and Deep Learning <br>
 - Changing Sigmoid to ReLU activation function
 - Max-Norm Reguralization. Introduction of competitive weights
 - Initializing MLP with DBN weights
+
+#### 9. Dropout Regularization. [View](https://github.com/Smendowski/neural-networks-and-deep-learning/blob/main/%5B9%5D%20Dropout%20Regularization.ipynb)
+- Dropout Regularization
+
