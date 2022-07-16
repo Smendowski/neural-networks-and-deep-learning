@@ -34,3 +34,8 @@ NNaDL = Neural Networks and Deep Learning <br>
 #### 4. Evaluation and comparison of CDk and PCD algorithms. [View](https://github.com/Smendowski/neural-networks-and-deep-learning/blob/main/%5B4%5D%20Comparison%20of%20Contrastive%20Divergence%20and%20Persistent%20Contrastive%20Divergence%20algorithms.ipynb)
 - Implementation of Persistent Contrastive Divergence algorithm
 - Comparision of RBM's training algorithms based on MNIST dataset
+
+#### 5. Training RBM with Momentum and Introduction to DBNs (Deep Belief Networks). [View](https://github.com/Smendowski/neural-networks-and-deep-learning/blob/main/%5B5%5D%20Training%20RBM%20with%20Momentum%20and%20introduction%20to%20Deep%20Belief%20Networks.ipynb)
+- RBM training with Momentum - modification of classical SGD algorithm
+- DBN greedy layer-wise training
+- DBN sampling
